@@ -1,0 +1,46 @@
+#logo {
+  width: 100px;
+  height: 100p;
+}
+
+.figure {
+  text-align: center;
+}
+
+.figure:hover {
+  -webkit-transition: .2s linear;
+  -moz-transition: .2s linear;
+  -ms-transition: .2s linear;
+  -o-transition: .2s linear;
+  transition: .2s linear;
+  box-shadow: 0 16px 22px 0 rgba(90, 91, 95, 0.3  );
+  top: -5px;
+  cursor: pointer;
+}
+
+.figure-caption {
+  color: black;
+}
+
+.fa-heart {
+  color:red;
+}
+
+.search-input {
+  margin: 0 0 0 auto;
+  width: 20%;
+  padding: .375rem .75rem;
+  border: 1px solid #ced4da;
+  border-radius: 50px;
+  outline: none;
+  font-size: 16px;
+}
+
+.search-input:hover {
+  transition: width 0.3s;
+  width: 50%;
+}
+
+.search-input:focus {
+  width: 50%;
+}
