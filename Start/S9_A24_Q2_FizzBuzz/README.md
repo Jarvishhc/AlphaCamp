@@ -14,4 +14,4 @@
 * [case 4] input: 8, expect output: 8
   
 ## Test Result
-![](https://github.com/Jarvishhc/FizzBuzzTesting/blob/master/FizzBuzzTesting_Snapshot.png?raw=true)
+![](https://github.com/Jarvishhc/AlphaCamp/blob/master/Start/S9_A24_Q2_FizzBuzz/FizzBuzzTesting_Snapshot.png)
