@@ -1,0 +1,46 @@
+body {
+  background-color: #000000;
+}
+
+.container {
+  height: 100vh;
+}
+
+.control-panel {
+  height: 100vh;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-blue {
+  background-color: #3a62f2;
+}
+
+.label-field {
+  width: 30px;
+  height: 30px;
+  border-radius: 3px;
+}
+
+.octal-field {
+  width: 60px;
+  height: 30px;
+  border-radius: 3px;
+}
+
+.display-hex-code {
+  width: 230px;
+  height: 50px;
+  background-color: gray;
+  border-radius: 3px;
+  margin-top: 2px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: normal;
+}
